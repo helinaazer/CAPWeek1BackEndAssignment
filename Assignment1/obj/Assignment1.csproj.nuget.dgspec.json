@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\My Folders\\Projects\\Projects\\CAP\\Week1\\CAPWeek1BackEndAssignment\\Assignment1\\Assignment1.csproj": {}
+    "c:\\My Folders\\Projects\\Projects\\CAP\\Week1\\CAPWeek1BackEndAssignment\\Assignment1\\Assignment1.csproj": {}
   },
   "projects": {
-    "C:\\My Folders\\Projects\\Projects\\CAP\\Week1\\CAPWeek1BackEndAssignment\\Assignment1\\Assignment1.csproj": {
+    "c:\\My Folders\\Projects\\Projects\\CAP\\Week1\\CAPWeek1BackEndAssignment\\Assignment1\\Assignment1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\My Folders\\Projects\\Projects\\CAP\\Week1\\CAPWeek1BackEndAssignment\\Assignment1\\Assignment1.csproj",
+        "projectUniqueName": "c:\\My Folders\\Projects\\Projects\\CAP\\Week1\\CAPWeek1BackEndAssignment\\Assignment1\\Assignment1.csproj",
         "projectName": "Assignment1",
-        "projectPath": "C:\\My Folders\\Projects\\Projects\\CAP\\Week1\\CAPWeek1BackEndAssignment\\Assignment1\\Assignment1.csproj",
+        "projectPath": "c:\\My Folders\\Projects\\Projects\\CAP\\Week1\\CAPWeek1BackEndAssignment\\Assignment1\\Assignment1.csproj",
         "packagesPath": "C:\\Users\\helin\\.nuget\\packages\\",
-        "outputPath": "C:\\My Folders\\Projects\\Projects\\CAP\\Week1\\CAPWeek1BackEndAssignment\\Assignment1\\obj\\",
+        "outputPath": "c:\\My Folders\\Projects\\Projects\\CAP\\Week1\\CAPWeek1BackEndAssignment\\Assignment1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\helin\\AppData\\Roaming\\NuGet\\NuGet.Config"
